@@ -1,0 +1,2 @@
+
+npm install appium-chromedriver@3.0.1 --ignore-scripts
